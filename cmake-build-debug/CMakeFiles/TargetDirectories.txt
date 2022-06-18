@@ -1,0 +1,3 @@
+/home/tapsi/codes/network-routing/cmake-build-debug/CMakeFiles/network_routing.dir
+/home/tapsi/codes/network-routing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tapsi/codes/network-routing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
